@@ -1,0 +1,12 @@
+node_modules/
+playwright-report/
+test-results/
+allure-results/
+allure-report/
+dist/
+.env
+.env.local
+*.log
+.idea/
+.vscode/
+playwright/.cache/
